@@ -2,8 +2,8 @@
 
 <aside>
 💡 출처: 
-[https://arxiv.org/abs/2011.04123](https://arxiv.org/abs/2011.04123) (arXiv computer science / computer vision and pattern recognition / Deep Learning based Monocular Depth Prediction: Datasets, Methods and Applications 2020)
-
+[https://arxiv.org/abs/2011.04123](https://arxiv.org/abs/2011.04123) (arXiv computer science / computer vision and pattern recognition / Deep Learning based Monocular Depth Prediction: Datasets, Methods and Applications 2020 )
+   
 </aside>
 
 # Depth Completion 이란?
